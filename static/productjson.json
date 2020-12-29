@@ -1,0 +1,172 @@
+[
+  {
+      "id":1,
+      "name": "科比24号球衣",
+      "brand": "得分后卫",
+      "image": "../static/images/images1.jpg",
+      "sales":212,
+      "cost":2299,
+      "color":"黄色",
+      "introduce": "这是科比退役后的24号球衣, 2017年12月19日，湖人主场对阵勇士，中场时刻为科比的8号和24号2件球衣举行了退役仪式,这也是唯一一个退役两件球衣的人,因为科比的影响力所以这件球衣物有所值"
+  },
+  {
+      "id":2,
+      "name":"科比8号球衣",
+      "brand":"得分后卫",
+      "image": "../static/images/images2.jpg",
+      "sales":111,
+      "cost":3399,
+      "color":"黄色",
+      "introduce": "这是科比退役后的8号球衣, 2017年12月19日，湖人主场对阵勇士，中场时刻为科比的8号和24号2件球衣举行了退役仪式,这也是唯一一个退役两件球衣的人,因为科比的影响力所以这件球衣物有所值"
+  },
+  {
+      "id":3,
+      "name":"库里30号球衣",
+      "brand":"控球后卫",
+      "image":"../static/images/images3.jpg",
+      "sales":3123,
+      "cost":569,
+      "color":"黄色",
+      "introduce": "库里一家都是30号，如果说科比的24号代表了努力24小时，那么库里的30号可能就是家族遗传吧.这件黄色球衣也是甲骨文球馆颜色的象征。如果你是库里球迷赶紧行动起来吧"
+  },
+  {
+      "id":4,
+      "name":"库里30号球衣",
+      "brand":"控球后卫",
+      "image":"../static/images/images4.jpg",
+      "sales":4312,
+      "cost":699,
+      "color":"白色",
+      "introduce": "库里一家都是30号，如果说科比的24号代表了努力24小时，那么库里的30号可能就是家族遗传吧。白色的也是非常炫酷哟"
+  },
+  {
+      "id":5,
+      "name":"库里30号球衣",
+      "brand":"控球后卫",
+      "image":"../static/images/images5.jpg",
+      "sales":532,
+      "cost":699,
+      "color":"白色",
+      "introduce": "库里一家都是30号，如果说科比的24号代表了努力24小时，那么库里的30号可能就是家族遗传吧。白色的也是非常帅呢"
+  },
+  {
+      "id":6,
+      "name":"库里30号球衣",
+      "brand":"控球后卫",
+      "image":"../static/images/images6.jpg",
+      "sales":6312,
+      "cost":899,
+      "color":"黄色",
+      "introduce": "库里一家都是30号，如果说科比的24号代表了努力24小时，那么库里的30号可能就是家族遗传吧。这是甲骨文的主场球衣"
+  },
+  {
+      "id":7,
+      "name":"莱昂纳德猛龙球衣",
+      "brand":"小前锋",
+      "image":"../static/images/images7.jpg",
+      "sales":7123,
+      "cost":699,
+      "color":"白色",
+      "introduce": "因为总决赛的神勇发挥，使得莱昂纳德成了多伦多球迷心中的英雄，所以最近他的球衣价格也是有所上涨呢，这件白色的球衣很是帅气呢"
+  },
+  {
+      "id":8,
+      "name":"莱昂纳德猛龙球衣",
+      "brand":"小前锋",
+      "image":"../static/images/images8.jpg",
+      "sales":832112,
+      "cost":900,
+      "color":"红色",
+      "introduce": "因为总决赛的神勇发挥，使得莱昂纳德成了多伦多球迷心中的英雄，所以最近他的球衣价格也是有所上涨呢，这件白色的球衣很是帅气呢"
+  },
+  {
+      "id":9,
+      "name":"詹姆斯湖人球衣",
+      "brand":"小前锋",
+      "image":"../static/images/images9.jpg",
+      "sales":93213,
+      "cost":569,
+      "color":"黄色",
+      "introduce": "詹姆斯湖人队球衣，属于你的紫金军团，赶紧行动吧"
+  },
+  {
+      "id":10,
+      "name":"詹姆斯骑士球衣",
+      "brand":"小前锋",
+      "image":"../static/images/images10.jpg",
+      "sales":13210,
+      "cost":898,
+      "color":"红色",
+      "introduce": "詹姆斯是这座城城市的英雄，他为这座城市带来了首个总冠军，所以这件球衣虽然相比较贵一点，但是物有所值哦"
+  },
+  {
+      "id":11,
+      "name":"欧文凯尔特人球衣",
+      "brand":"控球后卫",
+      "image":"../static/images/images11.jpg",
+      "sales":12131,
+      "cost":499,
+      "color":"绿色",
+      "introduce": "因为最近交易流言，所以最近欧文的绿军球衣在降价哟，买过不要错过"
+  },
+  {
+      "id":12,
+      "name":"欧文骑士球衣",
+      "brand":"控球后卫",
+      "image":"../static/images/images12.jpg",
+      "sales":12132,
+      "cost":498,
+      "color":"黄色",
+      "introduce": "欧文骑士时期球衣，风骚2号，你值得拥有"
+  },
+  {
+      "id":13,
+      "name":"韦德公牛球衣",
+      "brand":"得分后卫",
+      "image":"../static/images/images13.jpg",
+      "sales":132133,
+      "cost":399,
+      "color":"红色",
+      "introduce": "芝加哥是韦德的家乡，所以这是他的家乡球队，这是韦德在公牛时期的球衣，很便宜哟"
+  },
+  {
+      "id":14,
+      "name":"韦德热火球衣",
+      "brand":"得分后卫",
+      "image":"../static/images/images14.jpg",
+      "sales":1321324,
+      "cost":568,
+      "color":"白色",
+      "introduce": "最终，韦德还是在迈阿密退役了，我想在不久，迈阿密将会为韦德举行球衣退役仪式，毕竟一人一城，他为这个球队奉献太多了，所以这件主场球衣你值得拥有"
+  },
+  {
+      "id":15,
+      "name":"韦德热火球衣",
+      "brand":"得分后卫",
+      "image":"../static/images/images15.jpg",
+      "sales":13215,
+      "cost":699,
+      "color":"白色",
+      "introduce": "最终，韦德还是在迈阿密退役了，我想在不久，迈阿密将会为韦德举行球衣退役仪式，毕竟一人一城，他为这个球队奉献太多了，所以这件主场球衣你值得拥有"
+  },
+  {
+      "id":16,
+      "name":"罗斯公牛球衣",
+      "brand":"控球后卫",
+      "image":"../static/images/images16.jpg",
+      "sales":12316,
+      "cost":699,
+      "color":"红色",
+      "introduce": "风城玫瑰，永不凋零，这件罗斯公牛一号球衣你值得拥有，这还是主场球衣哟"
+  },
+  {
+      "id":17,
+      "name":"罗斯公牛球衣",
+      "brand":"控球后卫",
+      "image":"../static/images/images17.jpg",
+      "sales":13217,
+      "cost":799,
+      "color":"白色",
+      "introduce": "罗斯公牛时期球衣"
+  }
+]
